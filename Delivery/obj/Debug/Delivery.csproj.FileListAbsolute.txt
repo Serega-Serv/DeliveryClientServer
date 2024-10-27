@@ -1,0 +1,15 @@
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\bin\Debug\Delivery.exe.config
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\bin\Debug\Delivery.exe
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\bin\Debug\Delivery.pdb
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\MainWindow.g.cs
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\App.g.cs
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery_MarkupCompile.cache
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery_MarkupCompile.lref
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\MainWindow.baml
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.g.resources
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.Properties.Resources.resources
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.csproj.GenerateResource.cache
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.exe
+C:\Users\Sergo\Desktop\DeliveryService\Delivery\obj\Debug\Delivery.pdb
